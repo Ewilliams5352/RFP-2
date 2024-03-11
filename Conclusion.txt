@@ -1,0 +1,28 @@
+What I have found till now:
+
+Top 10 most common genres in Miss Spindt's Playlist:
+indie rock: 28 occurrences, 6.85% of total
+chamber pop: 26 occurrences, 6.36% of total
+stomp and holler: 16 occurrences, 3.91% of total
+art pop: 13 occurrences, 3.18% of total
+alternative rock: 11 occurrences, 2.69% of total
+indie folk: 10 occurrences, 2.44% of total
+modern rock: 10 occurrences, 2.44% of total
+indie pop: 10 occurrences, 2.44% of total
+noise pop: 10 occurrences, 2.44% of total
+rock: 9 occurrences, 2.20% of total
+
+Top 10 most common artists in Miss Spindt's Playlist:
+Angel Olsen: 8 occurrences, 7.41% of total
+Alabama Shakes: 6 occurrences, 5.56% of total
+Shakey Graves: 4 occurrences, 3.70% of total
+Big Thief: 4 occurrences, 3.70% of total
+Vulfpeck: 3 occurrences, 2.78% of total
+Dr. Dog: 3 occurrences, 2.78% of total
+Scary Pockets: 3 occurrences, 2.78% of total
+Perfume Genius: 3 occurrences, 2.78% of total
+DeVotchKa: 3 occurrences, 2.78% of total
+Lake Street Dive: 2 occurrences, 1.85% of total
+
+Next Step:
+Make an algorithm to find songs of the same genre and artists that don't exist in her playlist yet
